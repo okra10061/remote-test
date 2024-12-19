@@ -1,32 +1,56 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="1FPB_CQj8W2GkZ4Zs6Ha">
-    <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CN7pYSeJiUtaSrrDx2DG-7" value="基础院门户网站" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="10" y="490" width="130" height="60" as="geometry" />
+          <mxGeometry x="70" y="500" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN7pYSeJiUtaSrrDx2DG-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="410" width="50" height="220" as="geometry" />
+          <mxGeometry x="200" y="380" width="50" height="300" as="geometry" />
         </mxCell>
         <mxCell id="CN7pYSeJiUtaSrrDx2DG-10" value="首页" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CN7pYSeJiUtaSrrDx2DG-11" value="平台介绍页" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="190" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="CN7pYSeJiUtaSrrDx2DG-11" value="介绍页" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="250" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CN7pYSeJiUtaSrrDx2DG-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="320" width="50" height="170" as="geometry" />
+          <mxGeometry x="370" y="290" width="50" height="170" as="geometry" />
         </mxCell>
         <mxCell id="CN7pYSeJiUtaSrrDx2DG-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="545" width="50" height="170" as="geometry" />
+          <mxGeometry x="370" y="595" width="50" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="CN7pYSeJiUtaSrrDx2DG-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="360" y="460" width="270" height="60" as="geometry" />
+        <mxCell id="CN7pYSeJiUtaSrrDx2DG-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CN7pYSeJiUtaSrrDx2DG-16" target="CN7pYSeJiUtaSrrDx2DG-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CN7pYSeJiUtaSrrDx2DG-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="CN7pYSeJiUtaSrrDx2DG-16" value="不同分辨率的显示器适配" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CN7pYSeJiUtaSrrDx2DG-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CN7pYSeJiUtaSrrDx2DG-17" target="CN7pYSeJiUtaSrrDx2DG-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CN7pYSeJiUtaSrrDx2DG-17" value="页面布局以及动态效果" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CN7pYSeJiUtaSrrDx2DG-23" value="平台总览页" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="565" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CN7pYSeJiUtaSrrDx2DG-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CN7pYSeJiUtaSrrDx2DG-24" target="CN7pYSeJiUtaSrrDx2DG-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CN7pYSeJiUtaSrrDx2DG-24" value="平台介绍页" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontSize=16;labelPosition=center;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CN7pYSeJiUtaSrrDx2DG-25" value="swiper、jquery" style="whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="260" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CN7pYSeJiUtaSrrDx2DG-27" value="viewpoint、flexbox" style="whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="430" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CN7pYSeJiUtaSrrDx2DG-31" value="侧边栏再分页" style="whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="730" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
